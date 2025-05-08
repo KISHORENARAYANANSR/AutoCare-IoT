@@ -1,0 +1,12 @@
+/* index.css or App.css */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0b1120; /* Match your dashboard's dark background */
+  }
+  
+  #root {
+    min-height: 100vh;
+    background-color: #0b1120; /* Ensures no white edge from the root container */
+  }
+  
